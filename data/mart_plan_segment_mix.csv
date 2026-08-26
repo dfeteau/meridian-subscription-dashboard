@@ -1,0 +1,16 @@
+company_size_band,plan_name,tier_rank,customers
+Enterprise (500+),Starter,1,2
+Enterprise (500+),Growth,2,11
+Enterprise (500+),Scale,3,20
+Enterprise (500+),Scale (Annual),3,12
+Enterprise (500+),Enterprise,4,32
+Mid-Market (51-500),Starter,1,23
+Mid-Market (51-500),Growth,2,108
+Mid-Market (51-500),Scale,3,38
+Mid-Market (51-500),Scale (Annual),3,27
+Mid-Market (51-500),Enterprise,4,25
+Small (1-50),Starter,1,191
+Small (1-50),Growth,2,113
+Small (1-50),Scale,3,22
+Small (1-50),Scale (Annual),3,17
+Small (1-50),Enterprise,4,9

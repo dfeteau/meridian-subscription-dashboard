@@ -1,0 +1,7 @@
+channel,customers,churned_customers,churn_rate_pct,avg_ltv,avg_lifespan_months
+Paid Search,147,66,44.9,1742.44,9.2
+Content/Community,55,16,29.09,1791.8,10.0
+Organic Search,192,55,28.65,1844.04,10.1
+Partner,59,16,27.12,2143.32,9.6
+Referral,114,26,22.81,2829.02,12.2
+Outbound Sales,81,18,22.22,2820.96,11.7

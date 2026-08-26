@@ -1,0 +1,8 @@
+industry,total_customers,churned,churn_rate_pct
+Manufacturing,111,45,40.5
+Education,88,32,36.4
+Healthcare,101,33,32.7
+Media,93,26,28.0
+Software,84,23,27.4
+E-commerce,82,22,26.8
+Financial Services,91,17,18.7
